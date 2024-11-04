@@ -16,7 +16,7 @@ def main():
 
     st.title("Binary Classification Streamlit App")
     st.sidebar.title("Binary Classification Streamlit App")
-    st.markdown(" เห็ดนี้กินได้หรือไม่??? 🍄‍🟫🍄‍🟫🍄‍🟫")
+    st.markdown(" เห็ดนี้กินได้หรือไม่??? By Chitidech 🍄‍🟫🍄‍🟫🍄‍🟫")
     st.sidebar.markdown(" เห็ดนี้กินได้หรือไม่??? 🍄‍🟫🍄‍🟫🍄‍🟫")
 
     ############### Step 2 Load dataset and Preprocessing data ##########
